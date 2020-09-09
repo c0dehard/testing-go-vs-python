@@ -126,6 +126,8 @@ if __name__ == "__main__":
 	# Using unittest's main method allows to run within the editor.
 	unittest.main()
 ```
+Feel free to check out my other [python examples](https://github.com/c0dehard/PythonStuff/).
+
 
 ### [Go test](/golang/calc_test.go)
 
