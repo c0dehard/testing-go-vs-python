@@ -1,5 +1,5 @@
 # Comparison of Unit-Testing between  [Python](https://www.python.org/) and [Go](https://golang.org/)
-![GitHub](https://img.shields.io/github/license/c0dehard/testing-go-vs-python) ![GitHub go.mod Go version (branch & subfolder of monorepo)](https://img.shields.io/github/go-mod/go-version/c0dehard/testing-go-vs-python/master?filename=golang%2Fgo.mod)
+ [![license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub go.mod Go version (branch & subfolder of monorepo)](https://img.shields.io/github/go-mod/go-version/c0dehard/testing-go-vs-python/master?filename=golang%2Fgo.mod)
 
 With built-in libraries only.
 
