@@ -8,7 +8,8 @@ With built-in libraries only.
 
 ## Why
 
-Tests are usually very meaningful once you have taken the time and trouble to write them. For example if a method has changed it's logic (whether on purpose or not) in the future, unit tests will save a lot of headaches time by  simply run the test to see if the code still works as asserted in the test!
+Tests are usually very meaningful once you have taken the time and trouble to write them. For example if a method has changed it's logic (whether on purpose or not) in the future, unit-tests will save a lot of headaches and time. 
+Simply run the tests to see if the code still works as asserted in the test and everything is OK!
 
 > Note: If you are more experienced i'd recommend you to take a look at [Test-driven Development](https://en.wikipedia.org/wiki/Test-driven_development) It can be very strong if it is done properly, i.e. writing the test first and then trying to write suitable code.
 
