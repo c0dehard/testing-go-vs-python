@@ -1,4 +1,4 @@
-# Comparison of Unit-Testing between  and [Go](https://golang.org/)
+# Comparison of Unit-Testing between  [Python](https://www.python.org/) and [Go](https://golang.org/)
 
 With only built in libraries.
 
