@@ -1,5 +1,5 @@
 # Comparison of Unit-Testing between  [Python](https://www.python.org/) and [Go](https://golang.org/)
- [![license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub go.mod Go version (branch & subfolder of monorepo)](https://img.shields.io/github/go-mod/go-version/c0dehard/testing-go-vs-python/master?filename=golang%2Fgo.mod)
+[![license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![GitHub contributors](https://img.shields.io/github/contributors/c0dehard/testing-go-vs-python) [![Python 3.x](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/release/python-385/) ![GitHub go.mod Go version (branch & subfolder of monorepo)](https://img.shields.io/github/go-mod/go-version/c0dehard/testing-go-vs-python/master?filename=golang%2Fgo.mod) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
 With built-in libraries only.
 
