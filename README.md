@@ -1,6 +1,10 @@
 # Comparison of Unit-Testing between  [Python](https://www.python.org/) and [Go](https://golang.org/)
+![GitHub](https://img.shields.io/github/license/c0dehard/testing-go-vs-python)
 
-With only built in libraries.
+With built-in libraries only.
+
+
+<small>Credits: Python part is based on [CoreyMSchafer's Snippet](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Unit-Testing)</small>
 
 ## Why
 
